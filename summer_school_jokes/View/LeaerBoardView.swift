@@ -22,7 +22,7 @@ struct LeaerBoardView: View {
                 Spacer()
             }
             
-            Text("Top 10 jokes of the day")
+            Text("Top 10 jokes")
                 .font(.title3)
                 .fontWeight(.semibold)
                 .padding(4)
